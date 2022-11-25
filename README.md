@@ -1,6 +1,7 @@
-         ### sea_battle_game
+### sea_battle_game
          Консольная игра "Морской бой".
          Интерфейс игры:
+         (This is a console "Sea battle "game and it's interface):
 
                *************************************************
                ***      "Морской бой" приветствует Вас!      ***
